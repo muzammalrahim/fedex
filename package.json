@@ -1,0 +1,19 @@
+{
+  "name": "fedex",
+  "version": "1.0.0",
+  "description": "git clone https://github.com/muzammalrahim/fedex.git\r cd fedex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@easypost/api": "^4.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
